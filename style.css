@@ -1,0 +1,25 @@
+.current-page {
+    background-color: #D33653;
+}
+
+b {
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: #a4243b;
+}
+
+body {
+    background-color: rgb(248, 246, 243);
+}
+
+footer {
+    margin-top: 100px;
+}
+
+.apresentation {
+    font-size: 20px;
+    margin-left: 1%;
+    opacity: 70%;
+}
